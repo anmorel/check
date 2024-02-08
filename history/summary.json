@@ -4,19 +4,19 @@
     "url": "https://www.i-run.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.i-run.fr.ico",
     "slug": "i-run-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 837,
-    "timeWeek": 817,
-    "timeMonth": 747,
-    "timeYear": 747,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 704,
+    "timeDay": 577,
+    "timeWeek": 755,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {
-      "2024-02-08": 0
+      "2024-02-08": 28
     }
   },
   {
