@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.i-run.fr.ico",
     "slug": "i-run-fr",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 661,
     "timeDay": 780,
     "timeWeek": 634,
@@ -60,17 +60,19 @@
     "url": "https://www.i-run.es/cesta.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.i-run.es.ico",
     "slug": "i-run-es-panier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 398,
-    "timeWeek": 563,
-    "timeMonth": 614,
-    "timeYear": 614,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 883,
+    "timeWeek": 664,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2024-02-19": 0
+    }
   }
 ]
