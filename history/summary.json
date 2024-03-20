@@ -4,10 +4,10 @@
     "url": "https://www.i-run.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.i-run.fr.ico",
     "slug": "i-run-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 713,
@@ -16,6 +16,7 @@
     "timeMonth": 740,
     "timeYear": 713,
     "dailyMinutesDown": {
+      "2024-03-20": 1,
       "2024-02-08": 28
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://www.i-run.fr/panier.html",
     "icon": "https://icons.duckduckgo.com/ip3/www.i-run.fr.ico",
     "slug": "i-run-fr-panier",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 689,
     "timeMonth": 742,
     "timeYear": 700,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-20": 0
+    }
   },
   {
     "name": "i-Run - ES",
